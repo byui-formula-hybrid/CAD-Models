@@ -23,9 +23,8 @@ The repository is organized into the following directories:
 |   |-- Steering
 |
 |-- Powertrain
-|   |-- Engine
+|   |-- Inverter
 |   |-- ElectricMotor
-|   |-- Transmission
 |
 |-- Electrical
 |   |-- Accumulator
