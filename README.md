@@ -28,7 +28,7 @@ The repository is organized into the following directories:
 |   |-- Transmission
 |
 |-- Electrical
-|   |-- Battery
+|   |-- Accumulator
 |   |-- Wiring
 |   |-- ControlSystems
 |
